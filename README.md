@@ -1,5 +1,4 @@
 ![Welcome](welcome.jpg)
-![SignUp](signup.jpg)
 ![Error_SignUp](error_signup.jpg)
 ![SignUp_Complete](signup_completed.jpg)
 ![Error_Login](error_login.jpg)
