@@ -1,7 +1,4 @@
-![Welcome](welcome.png)
-![SignUp](signup.png)
-![Error_SignUp](error_signup.png)
-![SignUp_Completed](signup_completed.png)
-![Error_Login](error_login.png)
-![Login_Complete](login_completed.png)
-![Recover_Password](password.png)
+![Welcome](others.jpg)
+![SignUp](signup.jpg)
+![Login](login.jpg)
+
